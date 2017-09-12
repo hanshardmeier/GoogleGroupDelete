@@ -1,4 +1,4 @@
-Google Group Delete App - README.md
+Google Group Delete App - README.md 
 ===================================
 
 First things first: Run this program at your own risk.
@@ -24,4 +24,7 @@ java -jar GoogleGroupDelete.jar
 
 Contact
 -------
-For questions or comment please use open an issue.
+For questions or comment please use open an issue. 
+
+Copyright Hans Hardmeier
+
